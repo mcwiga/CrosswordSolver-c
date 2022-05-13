@@ -2,9 +2,8 @@
 // For 1920-CS211 - Lab 3+4
 // By:  Michael McGloin
 // When: 15 Feb 2020
-// Why:  Beat my collegues at scrabble
+// Why:  Beat my friends at scrabble
 // More: Contact M.MCGLOIN2@nuigalway.ie
-// Collaborated with Thomas and Dylan
 
 /* This program was designed to help solve crosswords. It takes an input string, clue, and stores it in an array
 It will then check this array against some Dictionary and check for matches within that dictionary.
